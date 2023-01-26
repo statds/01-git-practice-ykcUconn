@@ -1,0 +1,6 @@
+Hello, 
+
+My name is Yang Kang Chua, and I am a first-year Ph.D. student in Mechanical Engineering under the supervision of Dr. Chao Hu. My research work involves machine learning for health prognostics of engineering systems.
+
+I am looking for an interesting statistics course to take that would be helpful for my research topic. I came across STAT 5255: Introduction to Data Science, and I found it interesting as I could acquire a better understanding of data analytics and machine learning. The topics included in this course will greatly accelerate my research progress.
+

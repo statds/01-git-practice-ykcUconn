@@ -7,10 +7,6 @@ This is a practice exersice on Github
 Best,
 Yang Kang Chua
 
-Paragraph withou a hard break
-I'm heading back to Connecticut tomorrow after being down in Santa Barbara over the weekend for the festival there. I will be making October plans once there and will try to arrange so I'm back here for the birthday if possible. I'll let you know as soon as I know the doctor's appointment schedule and my flight plans.
 
-This is an example of short line
-"Recover the accidently removed file add.qmd; deleted a long line (a paragraph without a hard break)"
 
 
